@@ -8,7 +8,7 @@ Pour télécharger l'ensemble du dossier, deux options :
 
 - utiliser "Create a new fork" pour travailler directement sur votre propre dépôt Git
 
-- ou télécharger un dossier compressé .zip pour un usage en local sur votre PC [text](https://github.com/BrunoDuplessis/Projet-RDV-Albi---Eleve/archive/refs/heads/Projet-2026.zip)
+- ou télécharger le  [dossier compressé](https://github.com/BrunoDuplessis/Projet-RDV-Albi---Eleve/archive/refs/heads/Projet-2026.zip) pour un usage en local sur votre PC 
 
 NE PAS CLONER directement le dépôt !
 

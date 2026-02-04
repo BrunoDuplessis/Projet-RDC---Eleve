@@ -18,16 +18,16 @@ Avant utilisation des notebooks, il convient de créer puis d'utiliser un enviro
 
 - sous Windows
 
-    python -m venv venv
+    'python -m venv venv'
 
-    venv\Scripts\activate
+    'venv\Scripts\activate'
 
-    pip install -r requirements.txt
+    'pip install -r requirements.txt'
 
 - sous macOS / Linux
 
-    python -m venv venv
+    'python -m venv venv'
 
-    source venv/bin/activate
-    
-    pip install -r requirements.txt
+    'source venv/bin/activate'
+
+    'pip install -r requirements.txt'

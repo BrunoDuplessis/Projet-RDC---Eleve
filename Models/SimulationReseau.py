@@ -504,7 +504,7 @@ def Run_discret(dossier, Fichier_entrees, Donnees_SST, Fichier_Tubes, parametres
 
     "Affichage des indicateurs de performance"
     print("La consommation de gaz s'élève à ", np.round(Part_gaz/6000,1)," MWh")
-    print("L'énergie dévivrée est de ", np.round((Part_gaz+Part_geo)/6000,1), "MWh")
+    print("L'énergie délivrée est de ", np.round((Part_gaz+Part_geo)/6000,1), "MWh")
     print("Le taux d'énergies renouvelables est de ", np.round(100*Part_geo/(Part_geo+Part_gaz),1)," %")
     print("Les pertes en conduite s'élèvent à ",np.round(pertes,1)," % de la puissance totale délivrée")
     print("L'énergie non-fournie par les SST est respectivement de ",E_non_fournie[0],"kWh,",E_non_fournie[1], "kWh,",E_non_fournie[2],"kWh,",E_non_fournie[3],"kWh,",E_non_fournie[4],"kWh,",E_non_fournie[5],"kWh,",E_non_fournie[6],"kWh,",E_non_fournie[7],"kWh")

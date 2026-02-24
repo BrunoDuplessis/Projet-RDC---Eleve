@@ -37,7 +37,7 @@ Avant utilisation des notebooks, il convient de créer puis d'utiliser un enviro
 - sous Windows
 
 ```bash
-    python -m venv venv
+    python3 -m venv venv
     venv\Scripts\activate
 (ou venv\Scripts\activate.bat)
     pip install -r requirements.txt
@@ -46,7 +46,7 @@ Avant utilisation des notebooks, il convient de créer puis d'utiliser un enviro
 - sous macOS / Linux
 
 ```bash
-    python -m venv venv
+    python3 -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt
 ```
